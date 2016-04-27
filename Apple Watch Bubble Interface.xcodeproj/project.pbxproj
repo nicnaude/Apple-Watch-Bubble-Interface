@@ -12,6 +12,8 @@
 		4A01E7761CD1472F003BEF21 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A01E7741CD1472F003BEF21 /* Main.storyboard */; };
 		4A01E7781CD1472F003BEF21 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A01E7771CD1472F003BEF21 /* Assets.xcassets */; };
 		4A01E77B1CD1472F003BEF21 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A01E7791CD1472F003BEF21 /* LaunchScreen.storyboard */; };
+		4A01E7831CD148AA003BEF21 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A01E7821CD148AA003BEF21 /* CollectionViewCell.swift */; };
+		4A01E7851CD14A99003BEF21 /* CollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A01E7841CD14A99003BEF21 /* CollectionViewLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		4A01E7771CD1472F003BEF21 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A01E77A1CD1472F003BEF21 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4A01E77C1CD1472F003BEF21 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A01E7821CD148AA003BEF21 /* CollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		4A01E7841CD14A99003BEF21 /* CollectionViewLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +58,24 @@
 		4A01E76F1CD1472F003BEF21 /* Apple Watch Bubble Interface */ = {
 			isa = PBXGroup;
 			children = (
-				4A01E7701CD1472F003BEF21 /* AppDelegate.swift */,
+				4A01E7861CD15289003BEF21 /* Supporting files */,
 				4A01E7721CD1472F003BEF21 /* ViewController.swift */,
 				4A01E7741CD1472F003BEF21 /* Main.storyboard */,
+				4A01E7821CD148AA003BEF21 /* CollectionViewCell.swift */,
+				4A01E7841CD14A99003BEF21 /* CollectionViewLayout.swift */,
 				4A01E7771CD1472F003BEF21 /* Assets.xcassets */,
 				4A01E7791CD1472F003BEF21 /* LaunchScreen.storyboard */,
 				4A01E77C1CD1472F003BEF21 /* Info.plist */,
 			);
 			path = "Apple Watch Bubble Interface";
+			sourceTree = "<group>";
+		};
+		4A01E7861CD15289003BEF21 /* Supporting files */ = {
+			isa = PBXGroup;
+			children = (
+				4A01E7701CD1472F003BEF21 /* AppDelegate.swift */,
+			);
+			name = "Supporting files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,6 +151,8 @@
 			files = (
 				4A01E7731CD1472F003BEF21 /* ViewController.swift in Sources */,
 				4A01E7711CD1472F003BEF21 /* AppDelegate.swift in Sources */,
+				4A01E7851CD14A99003BEF21 /* CollectionViewLayout.swift in Sources */,
+				4A01E7831CD148AA003BEF21 /* CollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

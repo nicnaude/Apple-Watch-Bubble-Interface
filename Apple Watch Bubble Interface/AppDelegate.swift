@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Apple Watch Bubble Interface
-//
-//  Created by Nicholas Naudé on 27/04/2016.
-//  Copyright © 2016 Nicholas Naudé. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
