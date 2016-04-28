@@ -13,41 +13,41 @@ let ROWS = 20
 
 class CollectionViewLayout: UICollectionViewLayout {
     
-    //space between the cells:
+    //1. space between the cells:
     let interimSpace: CGFloat = 0.0
     
-    //cell diameter:
+    //2. Each cell has a diameter of 80 points
     let itemSize: CGFloat = 80
     
-    // center of the animation:
+    //3. A computed property representing the center of the animation:
     var center: CGPoint {
         return CGPoint(x: (self.cViewSize.width) / 2.0, y: (self.cViewSize.height) / 2.0)
     }
     
-    //total number of cells: 
+    //4. A computed property that holds the total number of cells:
     var cellCount: Int {
         return COLS*ROWS
     }
     
-    //total size of the collectionView:
+    //5. A computed property holding the size of the collection view:
     var cViewSize: CGSize {
         return self.collectionView!.frame.size
     }
     
-    //A computed property holding the value of the paraboloid parameter a:
+    //6. A computed property holding the value of the paraboloid parameter a:
     var a: CGFloat {
         return 2.5 * self.cViewSize.width
     }
     
-    //A computed property holding the value of the paraboloid parameter b:
+    //7. A computed property holding the value of the paraboloid parameter b:
     var b: CGFloat {
         return 2.5 * self.cViewSize.height
     }
     
-    //A stored property holding the value of the paraboloid parameter c:
+    // 8. A stored property holding the value of the paraboloid parameter c:
     let c: CGFloat = 20
     
-    //invalidate the collection view layout at every bounds change
+    //Since I want to change the layout of the collection view every time the user scrolls it, I need to invalidate the collection view layout at every bounds change. To do so, I add the following method to the CollectionViewLayout class:
     override func shouldInvalidateLayoutForBoundsChange(newBounds: CGRect) -> Bool {
         return true
     }

@@ -2,4 +2,415 @@
 <Bucket
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Apple Watch Bubble Interface/CollectionViewLayout.swift"
+            timestampString = "483516149.918689"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "layoutAttributesForElementsInRectangle(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Apple Watch Bubble Interface/CollectionViewLayout.swift"
+            timestampString = "483516175.53372"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "layoutAttributesForItemAtIndexPath(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Apple Watch Bubble Interface/CollectionViewLayout.swift"
+            timestampString = "483516219.723311"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "shouldInvalidateLayoutForBoundsChange(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Apple Watch Bubble Interface/CollectionViewLayout.swift"
+            timestampString = "483516222.097729"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "CollectionViewLayout"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Watch_Bubble_Interface.CollectionViewLayout.c.getter : CoreGraphics.CGFloat"
+                  moduleName = "Apple Watch Bubble Interface"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicnaude/Documents/Apple%20Watch%20Bubble%20Interface/Apple%20Watch%20Bubble%20Interface/CollectionViewLayout.swift"
+                  timestampString = "483516283.833251"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Watch_Bubble_Interface.CollectionViewLayout.init () -&gt; Apple_Watch_Bubble_Interface.CollectionViewLayout"
+                  moduleName = "Apple Watch Bubble Interface"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicnaude/Documents/Apple%20Watch%20Bubble%20Interface/Apple%20Watch%20Bubble%20Interface/CollectionViewLayout.swift"
+                  timestampString = "483516283.833566"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "55">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Watch_Bubble_Interface.CollectionViewLayout.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Apple_Watch_Bubble_Interface.CollectionViewLayout&gt;"
+                  moduleName = "Apple Watch Bubble Interface"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicnaude/Documents/Apple%20Watch%20Bubble%20Interface/Apple%20Watch%20Bubble%20Interface/CollectionViewLayout.swift"
+                  timestampString = "483516283.834006"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "59">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Apple Watch Bubble Interface/CollectionViewLayout.swift"
+            timestampString = "483516248.628524"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "CollectionViewLayout"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Apple Watch Bubble Interface/CollectionViewLayout.swift"
+            timestampString = "483516290.855759"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "CollectionViewLayout"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Apple Watch Bubble Interface/CollectionViewLayout.swift"
+            timestampString = "483516456.867353"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "CollectionViewLayout"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Apple Watch Bubble Interface/CollectionViewLayout.swift"
+            timestampString = "483516475.972368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "CollectionViewLayout"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Apple Watch Bubble Interface/CollectionViewLayout.swift"
+            timestampString = "483516486.095602"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "CollectionViewLayout"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Watch_Bubble_Interface.CollectionViewLayout.itemSize.getter : CoreGraphics.CGFloat"
+                  moduleName = "Apple Watch Bubble Interface"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicnaude/Documents/Apple%20Watch%20Bubble%20Interface/Apple%20Watch%20Bubble%20Interface/CollectionViewLayout.swift"
+                  timestampString = "483516490.925043"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Watch_Bubble_Interface.CollectionViewLayout.init () -&gt; Apple_Watch_Bubble_Interface.CollectionViewLayout"
+                  moduleName = "Apple Watch Bubble Interface"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicnaude/Documents/Apple%20Watch%20Bubble%20Interface/Apple%20Watch%20Bubble%20Interface/CollectionViewLayout.swift"
+                  timestampString = "483516490.925182"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Watch_Bubble_Interface.CollectionViewLayout.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Apple_Watch_Bubble_Interface.CollectionViewLayout&gt;"
+                  moduleName = "Apple Watch Bubble Interface"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicnaude/Documents/Apple%20Watch%20Bubble%20Interface/Apple%20Watch%20Bubble%20Interface/CollectionViewLayout.swift"
+                  timestampString = "483516490.925336"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Apple Watch Bubble Interface/CollectionViewLayout.swift"
+            timestampString = "483516494.595372"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "CollectionViewLayout"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Watch_Bubble_Interface.CollectionViewLayout.interimSpace.getter : CoreGraphics.CGFloat"
+                  moduleName = "Apple Watch Bubble Interface"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicnaude/Documents/Apple%20Watch%20Bubble%20Interface/Apple%20Watch%20Bubble%20Interface/CollectionViewLayout.swift"
+                  timestampString = "483516498.972803"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Watch_Bubble_Interface.CollectionViewLayout.init () -&gt; Apple_Watch_Bubble_Interface.CollectionViewLayout"
+                  moduleName = "Apple Watch Bubble Interface"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicnaude/Documents/Apple%20Watch%20Bubble%20Interface/Apple%20Watch%20Bubble%20Interface/CollectionViewLayout.swift"
+                  timestampString = "483516498.972933"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Watch_Bubble_Interface.CollectionViewLayout.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Apple_Watch_Bubble_Interface.CollectionViewLayout&gt;"
+                  moduleName = "Apple Watch Bubble Interface"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicnaude/Documents/Apple%20Watch%20Bubble%20Interface/Apple%20Watch%20Bubble%20Interface/CollectionViewLayout.swift"
+                  timestampString = "483516498.973317"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Apple Watch Bubble Interface/CollectionViewLayout.swift"
+            timestampString = "483516503.740985"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_63EB9C37A2E1F4CBC5E003B3BF1F736A_func1"
+                  moduleName = "Apple Watch Bubble Interface"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicnaude/Documents/Apple%20Watch%20Bubble%20Interface/Apple%20Watch%20Bubble%20Interface/CollectionViewLayout.swift"
+                  timestampString = "483516508.708137"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Watch_Bubble_Interface.ROWS.unsafeMutableAddressor : Swift.Int"
+                  moduleName = "Apple Watch Bubble Interface"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicnaude/Documents/Apple%20Watch%20Bubble%20Interface/Apple%20Watch%20Bubble%20Interface/CollectionViewLayout.swift"
+                  timestampString = "483516508.708474"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Apple Watch Bubble Interface/CollectionViewLayout.swift"
+            timestampString = "483516504.404869"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_63EB9C37A2E1F4CBC5E003B3BF1F736A_func0"
+                  moduleName = "Apple Watch Bubble Interface"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicnaude/Documents/Apple%20Watch%20Bubble%20Interface/Apple%20Watch%20Bubble%20Interface/CollectionViewLayout.swift"
+                  timestampString = "483516516.01073"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Watch_Bubble_Interface.COLS.unsafeMutableAddressor : Swift.Int"
+                  moduleName = "Apple Watch Bubble Interface"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicnaude/Documents/Apple%20Watch%20Bubble%20Interface/Apple%20Watch%20Bubble%20Interface/CollectionViewLayout.swift"
+                  timestampString = "483516516.010929"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Apple Watch Bubble Interface/CollectionViewLayout.swift"
+            timestampString = "483516525.925146"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "layoutAttributesForItemAtIndexPath(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
