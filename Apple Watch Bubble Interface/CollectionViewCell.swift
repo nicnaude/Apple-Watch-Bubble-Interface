@@ -10,6 +10,8 @@ import UIKit
 
 class CollectionViewCell: UICollectionViewCell {
     
+    @IBOutlet weak var cellText: UILabel!
+    
     override init(frame: CGRect) {
         super.init(frame: frame)
         self.contentView.layer.cornerRadius = frame.width / 2.0

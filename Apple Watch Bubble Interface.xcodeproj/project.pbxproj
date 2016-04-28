@@ -60,9 +60,9 @@
 			children = (
 				4A01E7861CD15289003BEF21 /* Supporting files */,
 				4A01E7721CD1472F003BEF21 /* ViewController.swift */,
-				4A01E7741CD1472F003BEF21 /* Main.storyboard */,
 				4A01E7821CD148AA003BEF21 /* CollectionViewCell.swift */,
 				4A01E7841CD14A99003BEF21 /* CollectionViewLayout.swift */,
+				4A01E7741CD1472F003BEF21 /* Main.storyboard */,
 				4A01E7771CD1472F003BEF21 /* Assets.xcassets */,
 				4A01E7791CD1472F003BEF21 /* LaunchScreen.storyboard */,
 				4A01E77C1CD1472F003BEF21 /* Info.plist */,
